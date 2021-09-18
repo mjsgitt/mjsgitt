@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amjad
 - 👀 I’m interested in ... Game Development and Game Designing
 - 🌱 I’m currently learning ...Unity , Construct 3 , Adobe Illustrate
-- 📫 How to reach me ... My Gmail Adress : amj996611@gmail.com
+- amj996611@gmail.com
 
 <!---
 Amjad1210-MJ/Amjad1210-MJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
