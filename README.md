@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amjad
 - 👀 I’m interested in ... Game Development and Game Designing
 - 🌱 I’m currently learning ...Unity
-- amj996611@gmail.com
+- mj1210pvt@gmail.com
 - Linkden : https://www.linkedin.com/in/shaik-amjad-12a581219/
 - Portfolio : https://amjad1210-mj.github.io/Amjad/
 <!---
