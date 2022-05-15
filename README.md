@@ -4,11 +4,6 @@ Amjad
 I'm a game developer
 
 <div align="center">
-Stats
-</div>
-
-
-<div align="center">
 <a href="http://www.github.com/Amjad12-10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amjad12-10&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
