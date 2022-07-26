@@ -3,7 +3,7 @@ Amjad
 
 * 🖥️  [MyPortfolio](https://amjad12-10.github.io/Amjad_/)
 * ✉️  [mj1210pvt@gmail.com](mailto:mj1210pvt@gmail.com)
-* 🧠  I'm learning WebDevelopment/Shader
+* 🧠  In Process
 * ⚡  I love cofee
 
 ### Socials
