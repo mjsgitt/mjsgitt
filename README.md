@@ -1,7 +1,7 @@
 Amjad
 ======================
 
-* 🖥️  [MyPortfolio](https://mjsgitt.github.io/Amjad_/)
+* 🖥️  [MyPortfolio](https://mjsgitt.github.io/Amjad/)
 * ✉️  [mj1210pvt@gmail.com](mailto:mj1210pvt@gmail.com)
 * 🧠  In Process
 * ⚡  I love cofee
