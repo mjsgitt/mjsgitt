@@ -2,7 +2,7 @@ Amjad
 ======================
 
 * 🖥️  [MyPortfolio](https://mjsgitt.github.io/Amjad/)
-* ✉️  [mj1210pvt@gmail.com](mailto:mj1210pvt@gmail.com)
+* ✉️  [mj1210pvt@gmail.com](mailto:smdamjad007@gmail.com)
 * 🧠  In Process
 * ⚡  I love coffee
 
